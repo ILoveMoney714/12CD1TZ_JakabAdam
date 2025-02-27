@@ -1,0 +1,16 @@
+{
+  "name": "12cd1tz_jakabadam",
+  "version": "1.0.0",
+  "description": "Jakab Ádám",
+  "main": "teliolimpia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
